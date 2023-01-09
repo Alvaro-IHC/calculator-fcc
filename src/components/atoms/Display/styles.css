@@ -1,0 +1,16 @@
+
+#display-container {
+  text-align: right;
+  font-family: 'Exo', sans-serif;
+}
+
+.first-row {
+  color: orange;
+  font-size: 2rem;
+  min-height: 2.7rem;
+}
+
+.second-row {
+  color: white;
+  font-size: 2.5rem;
+}

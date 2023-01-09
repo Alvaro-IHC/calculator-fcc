@@ -1,0 +1,32 @@
+.btn {
+  background: rgb(77, 77, 77);
+  border: none;
+  color: white;
+  min-width: 7.5rem;
+  min-height: 6.8rem;
+  font-weight: bold;
+  font-size: large;
+}
+
+.btn:hover {
+  box-shadow: 0px 0px 0px 1px gray;
+}
+
+.operator {
+  background: rgb(102, 102, 102);
+  font-size: 2.3rem;
+}
+
+.ac {
+  grid-area: ac;
+  background: rgb(172, 57, 57);
+}
+
+.eq {
+  grid-area: eq;
+  background-color: rgb(0, 68, 102);
+}
+
+.ze {
+  grid-area: ze;
+}

@@ -1,0 +1,10 @@
+.keyboard {
+  display: grid;
+  grid-template-areas: 
+    'ac ac . .'
+    '. . . .'
+    '. . . .'
+    '. . . eq'
+    'ze ze . eq';
+  gap: 0.2rem;
+}
